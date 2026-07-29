@@ -1,2 +1,2 @@
-# ai-analytics-pipeline-api
-"Production-ready asynchronous backend built with FastAPI and Pydantic for scalable AI model integration, feature orchestration, and automated data validation."(Backend asincrónico listo para producción construido con FastAPI y Pydantic para la integración escalable de modelos de IA, orquestación de funciones y validación automatizada de datos).
+# AI Analytics Pipeline API (FastAPI + Python)
+"Production-ready asynchronous backend built with FastAPI and Pydantic for automated data extraction, intelligent document parsing, and strict JSON validation from AI models."(Backend asincrónico listo para producción construido con FastAPI y Pydantic para la extracción automatizada de datos, análisis inteligente de documentos y validación JSON estricta desde modelos de IA).
